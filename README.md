@@ -1,3 +1,4 @@
 # Demoscene
-# Карпова Полина
-# Миленина Дарья
+# РљР°СЂРїРѕРІР° РџРѕР»РёРЅР°
+# РњРёР»РµРЅРёРЅР° Р”Р°СЂСЊСЏ
+![Alt Text](https://github.com/Pollyraspad/Demoscene/raw/master/image/image.png)
